@@ -1,0 +1,5 @@
+<library path="lib/libv4l2_cam_nodelet">
+  <class name="v4l2_cam/V4L2CamNodelet" type="v4l2_cam::V4L2CamNodelet" base_class_type="nodelet::Nodelet">
+    <description>v4l2_cam nodelet.</description>
+  </class>
+</library>
